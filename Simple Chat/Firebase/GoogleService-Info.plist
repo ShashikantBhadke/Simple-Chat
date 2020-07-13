@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>491205500395-30cpnuf8a1p2l6p7hv89mer9mkn0lgb5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.491205500395-30cpnuf8a1p2l6p7hv89mer9mkn0lgb5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUYcZ6yOOSxprLjKShKJwJxdo2LkW1rWI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>491205500395</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.redbytes.Simple-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>simple-chat-7cd11</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simple-chat-7cd11.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:491205500395:ios:7d1e3eedf7772d1419cdae</string>
+	<key>DATABASE_URL</key>
+	<string>https://simple-chat-7cd11.firebaseio.com</string>
+</dict>
+</plist>
